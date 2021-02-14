@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/whaahappen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="whaahappen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sercan sever" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sercan sever" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sercan-sever-a97147202/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sercan sever" height="30" width="40" /></a>
 <a href="https://instagram.com/sercansvr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sercansvr" height="30" width="40" /></a>
 </p>
 
