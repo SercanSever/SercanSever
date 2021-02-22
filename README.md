@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Asp.Net, .Net Core**
 
-- 🌱 I’m currently learning **.Net Core,**
-
 - 👯 I’m looking to collaborate on **C#, .NET Core Project**
 
 - 🤝 I’m looking for help with **JavaScript, Angular**
