@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sercan.</h1>
-<h3 align="center">A passionate .Net developer.</h3>
+<h3 align="center">A passionate Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sercansever&label=Profile%20views&color=0e75b6&style=flat" alt="sercansever" /> </p>
 
