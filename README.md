@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/sercan-sever-a97147202/" target="_blank">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384088.svg?token=exp=1615424804~hmac=ac2f323f98e9efca9ea953849e377871" width="20" alt="LinkedIn"/>
+    <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384088.svg?token=exp=1615424804~hmac=ac2f323f98e9efca9ea953849e377871" width="30" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/sercansvr" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
