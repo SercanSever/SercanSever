@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://twitter.com/whaahappen" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+    <img src="https://www.flaticon.com/svg/vstatic/svg/466/466963.svg?token=exp=1615424870~hmac=d8095c00a71bdca7083de012d03c0e7c" width="30" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/sercan-sever-a97147202/" target="_blank">
     <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384088.svg?token=exp=1615424804~hmac=ac2f323f98e9efca9ea953849e377871" width="30" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/sercansvr" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+    <img src="https://www.flaticon.com/svg/vstatic/svg/87/87390.svg?token=exp=1615424937~hmac=a8dfbdc8f96c71d7b271798e14b6ff79" width="30" alt="Instagram"/>
   </a>
 </p>
 
