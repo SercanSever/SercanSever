@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" style="margin-top:30px;"/>
 <h1 align="center">Hi 👋, I'm Sercan.</h1>
 <h3 align="center">A passionate Programmer</h3>
 
