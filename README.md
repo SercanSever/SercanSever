@@ -1,16 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sercan.</h1>
-<h5 align="center">
-  
-🔭 I’m currently working on **Asp.Net, .Net Core**
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-👯 I’m looking to collaborate on **C#, .NET Core Project**
 
-🤝 I’m looking for help with **JavaScript, Angular**
-
-💬 Ask me about **anything**
-
-📫 How to reach me **sercan.sever16@gmail.com**
-</h5>
+</br>
 <p align="center">
   <a href="https://twitter.com/whaahappen" target="_blank">
     <img src="https://www.flaticon.com/svg/vstatic/svg/466/466963.svg?token=exp=1615424870~hmac=d8095c00a71bdca7083de012d03c0e7c" width="45" alt="Twitter"/>
