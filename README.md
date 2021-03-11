@@ -31,7 +31,7 @@
   <a href="https://twitter.com/whaahappen" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/ercan-sever-a97147202" target="_blank">
+  <a href="https://www.linkedin.com/in/sercan-sever-a97147202/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/sercansvr" target="_blank">
