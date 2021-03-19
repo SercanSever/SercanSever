@@ -3,9 +3,7 @@
 
 </br>
 <p align="center">
-  <a href="https://twitter.com/whaahappen" target="_blank">
-    <img src="https://www.flaticon.com/svg/vstatic/svg/466/466963.svg?token=exp=1615424870~hmac=d8095c00a71bdca7083de012d03c0e7c" width="45" alt="Twitter"/>
-  </a>
+ [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](sercan.sever16@gmail.com "Connect via Email")
   <a href="https://www.linkedin.com/in/sercan-sever-a97147202/" target="_blank">
     <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384088.svg?token=exp=1615424804~hmac=ac2f323f98e9efca9ea953849e377871" width="45" alt="LinkedIn"/>
   </a>
