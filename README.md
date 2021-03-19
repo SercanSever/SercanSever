@@ -2,7 +2,6 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-sercan.sever16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sercan.sever16@gmail.com "Connect via Email")
-
 [![Linkedin Badge](https://img.shields.io/badge/-Sercan%20Sever-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sercan-sever-a97147202/ "Connect on LinkedIn")
 
 
