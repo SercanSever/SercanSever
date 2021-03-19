@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](sercan.sever16@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-sercan.sever16@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](sercan.sever16@gmail.com "Connect via Email")
 
 
 <h3 align="center">Languages and Tools:</h3>
