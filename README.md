@@ -3,7 +3,7 @@
 
 </br>
 <p align="center">
- [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](sercan.sever16@gmail.com "Connect via Email")
+
   <a href="https://www.linkedin.com/in/sercan-sever-a97147202/" target="_blank">
     <img src="https://www.flaticon.com/svg/vstatic/svg/1384/1384088.svg?token=exp=1615424804~hmac=ac2f323f98e9efca9ea953849e377871" width="45" alt="LinkedIn"/>
   </a>
